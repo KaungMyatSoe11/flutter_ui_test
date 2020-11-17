@@ -23,8 +23,12 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  
+  carousel_pro: ^1.0.0    
+  carousel_slider: ^2.3.1
+  flutter_svg: ^0.19.1
 
-
+  
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^1.0.0
@@ -48,6 +52,27 @@ flutter:
   # assets:
   #   - images/a_dot_burr.jpeg
   #   - images/a_dot_ham.jpeg
+  assets:
+    - assets/images/OIP2.jpg
+    - assets/images/OIP3.jpg
+    - assets/images/OIP1.jpg
+    - assets/images/tshirt.svg
+    - assets/images/headphones.svg
+    - assets/images/laptop.svg
+    - assets/images/monitor.svg
+    - assets/images/smartphone.svg
+    - assets/images/other.svg
+    - assets/images/delli710th.png
+    - assets/images/Gaminghp.jpg
+    - assets/images/huaweiMateBook.jpg
+    - assets/images/ip12.jpg
+    - assets/images/iph12pro.jpg
+    - assets/images/MacBookAir.jpg
+    - assets/images/nova7se.jpg
+    - assets/images/realme5i.jpg
+    - assets/images/cathp.jpg
+    - assets/images/OPPOf17pro.jpg
+
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware.
